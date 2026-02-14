@@ -1,3 +1,6 @@
 /* ============================================
    BASE.CSS - Reset, Tipografia e Variáveis
    ============================================ */
+body{
+   font-family: var(--fonte-principal);
+}
